@@ -90,6 +90,3 @@ The **Interquartile Range (IQR)** method is used to identify unusual Sales value
 
 This EDA project provides a clear understanding of the sales dataset through statistical analysis, grouping, correlation analysis, and outlier detection. The findings can help understand sales performance across different products, regions, and categories and support better data-driven business decisions.
 
-**CODSOFT – Data Science Internship**
-
-**Task 2: Exploratory Data Analysis (EDA)**
