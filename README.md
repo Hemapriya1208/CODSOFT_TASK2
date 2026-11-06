@@ -1,12 +1,12 @@
 # CODSOFT TASK 2 – Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on a sales dataset using Python. The main objective is to understand the dataset, identify important trends and patterns, study relationships between variables, and detect unusual values or outliers.
 
 The analysis is performed using **Pandas** and statistical techniques in a Jupyter Notebook.
 
-## 🎯 Objectives
+## Objectives
 
 - Load and inspect the sales dataset.
 - Understand the structure and characteristics of the data.
@@ -17,7 +17,7 @@ The analysis is performed using **Pandas** and statistical techniques in a Jupyt
 - Detect unusual sales values using the IQR method.
 - Identify useful business insights from the dataset.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Pandas**
@@ -42,7 +42,7 @@ The dataset contains **50 records and 9 columns**, including:
 - Customer Rating
 - Sales
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 The notebook performs the following analysis:
 
@@ -72,7 +72,7 @@ The analysis shows a strong positive relationship between **Unit Price and Sales
 ### 6. Outlier Detection
 The **Interquartile Range (IQR)** method is used to identify unusual Sales values. The analysis found **0 sales outliers**.
 
-## 📊 Key Results
+##  Key Results
 
 - Total records: **50**
 - Total columns: **9**
@@ -86,7 +86,7 @@ The **Interquartile Range (IQR)** method is used to identify unusual Sales value
 - Highest sales region: **Chennai**
 - Highest sales product: **Laptop**
 
-## 💡 Conclusion
+##  Conclusion
 
 This EDA project provides a clear understanding of the sales dataset through statistical analysis, grouping, correlation analysis, and outlier detection. The findings can help understand sales performance across different products, regions, and categories and support better data-driven business decisions.
 
